@@ -1,0 +1,637 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"moe",
+				"model\tparam"
+			],
+			[
+				"expertise_ar",
+				"expertise_result_array"
+			],
+			[
+				"off",
+				"expertise_offset"
+			],
+			[
+				"exepe",
+				"expertise_result_array\tstatement"
+			],
+			[
+				"expe",
+				"expertise_arrays\tstatement"
+			],
+			[
+				"exe",
+				"expertise_arrays\tstatement"
+			],
+			[
+				"tr",
+				"True\tkeyword"
+			],
+			[
+				"whi",
+				"while\tkeyword"
+			],
+			[
+				"ob",
+				"object_to_train\tparam"
+			],
+			[
+				"model",
+				"model_index\tstatement"
+			],
+			[
+				"mode",
+				"model_index\tstatement"
+			],
+			[
+				"arra",
+				"array_equal\tfunction"
+			],
+			[
+				"ma",
+				"max_value\tstatement"
+			],
+			[
+				"obj",
+				"object_to_train\tparam"
+			],
+			[
+				"tra",
+				"train_the_model"
+			],
+			[
+				"su",
+				"sum\tfunction"
+			],
+			[
+				"nu",
+				"numpy\tmodule"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"s",
+				"sub\tfunction"
+			],
+			[
+				"m",
+				"mul\tfunction"
+			],
+			[
+				"op",
+				"operator\tmodule"
+			],
+			[
+				"re",
+				"request\tparam"
+			],
+			[
+				"books_explo",
+				"books_explorers"
+			],
+			[
+				"books_explore",
+				"books_explorers\tmodule"
+			],
+			[
+				"vi",
+				"views\tmodule"
+			],
+			[
+				"boo",
+				"books_explorers"
+			],
+			[
+				"name",
+				"namespace\tparam"
+			],
+			[
+				"u",
+				"urls"
+			],
+			[
+				"en",
+				"env\tstatement"
+			],
+			[
+				"wr",
+				"write\tfunction"
+			],
+			[
+				"pa",
+				"package_dir\tstatement"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"ca",
+				"class"
+			],
+			[
+				"cla",
+				"class\tNew Class"
+			],
+			[
+				"Da",
+				"DateTimeField\tclass"
+			],
+			[
+				"te",
+				"TextField\tclass"
+			],
+			[
+				"mod",
+				"models\tmodule"
+			],
+			[
+				"mo",
+				"models\tmodule"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"fi",
+				"fill"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"number",
+				"numbers_loaded\tstatement"
+			],
+			[
+				"f",
+				"f_obj\tstatement"
+			],
+			[
+				"j",
+				"json_file_name\tstatement"
+			],
+			[
+				"d",
+				"dict\tclass"
+			],
+			[
+				"js",
+				"json\tmodule"
+			],
+			[
+				"Z",
+				"ZeroDivisionError\tclass"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"kan",
+				"kant_book_object\tstatement"
+			],
+			[
+				"ka",
+				"kant_book_object\tstatement"
+			],
+			[
+				"sli",
+				"slice1\tstatement"
+			],
+			[
+				"pe",
+				"peperonyIndex\tstatement"
+			],
+			[
+				"in",
+				"index\tfunction"
+			],
+			[
+				"pi",
+				"pizzas\tstatement"
+			],
+			[
+				"hello",
+				"helloWorld\tstatement"
+			],
+			[
+				"hell",
+				"helloStr"
+			],
+			[
+				"he",
+				"helloWorld"
+			],
+			[
+				"wi",
+				"while"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"t",
+				"title\tfunction"
+			],
+			[
+				"car",
+				"cars\tstatement"
+			],
+			[
+				"reverse",
+				"reversed\tclass"
+			],
+			[
+				"li",
+				"list\tclass"
+			],
+			[
+				"me",
+				"megician"
+			],
+			[
+				"fr",
+				"for\tkeyword"
+			],
+			[
+				"pr",
+				"print\tfunction"
+			],
+			[
+				"Do",
+				"Does"
+			],
+			[
+				"i",
+				"import\tkeyword"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/serg/Desktop/Edu/4 курс/IS/work1/work1.py",
+			"settings":
+			{
+				"buffer_size": 1843,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"anaconda li",
+				"Anaconda: Enable linting on this file"
+			],
+			[
+				"anaconda hi",
+				"Anaconda: Disable linting on this file"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/serg/python_projects/books_explorer",
+		"/C/Users/serg/python_projects/books_explorer/books_explorer",
+		"/C/Users/serg/python_projects/books_explorer/books_explorer/__pycache__",
+		"/C/Users/serg/python_projects/books_explorer/books_explorers",
+		"/C/Users/serg/python_projects/books_explorer/books_explorers/templates"
+	],
+	"file_history":
+	[
+		"/C/Users/serg/python_projects/tmp1/books_expl.sublime-project",
+		"/C/Users/serg/python_projects/tmp1/books_expl.sublime-workspace",
+		"/C/Users/serg/python_projects/books_explorer/manage.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/pip-selfcheck.json",
+		"/C/Users/serg/python_projects/ex1.py",
+		"/C/Users/serg/Desktop/Edu/4 курс/ТОАУ/Контрольная работа 2/main.cpp",
+		"/D/Старый комп(SAMSUNG-np300e5a)/Учёба ЭТФ АСУ/1 курс/Введение в специальность/Контрольная работа 2/Задача 2 Чупика/Задача 2/main.py",
+		"/C/Users/serg/coffeelint.json",
+		"/C/Users/serg/python_projects/books_explorer/books_explorers/urls.py",
+		"/C/Users/serg/python_projects/books_explorer/books_explorer/urls.py",
+		"/C/Users/serg/python_projects/books_explorer/books_explorers/views.py",
+		"/C/Users/serg/python_projects/books_explorer/books_explorer/settings.py",
+		"/C/Users/serg/Desktop/Edu/4 курс/case/lab/bpwin/lab1.bp1",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/urls/conf.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/contrib/admin/options.py",
+		"/C/Users/serg/python_projects/books_explorer/books_explorers/admin.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/contrib/staticfiles/storage.py",
+		"/C/Users/serg/python_projects/books_explorer/books_explorers/templates/books_explorers/index.html",
+		"/C/Users/serg/python_projects/books_explorer/books_explorers/models.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/db/models/fields/files.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/core/management/commands/makemessages.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/contrib/admin/static/admin/js/vendor/xregexp/xregexp.js",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.py",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/Terminal/PS.bat",
+		"/C/Users/serg/python_projects/Trash.py",
+		"/C/Users/serg/python_projects/json_args.json",
+		"/C/Users/serg/python_projects/JsonExample.py",
+		"/C/Users/serg/python_projects/json_numbers.json",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/contrib/contenttypes/models.py",
+		"/C/Users/serg/python_projects/ReadFromFile.py",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/contrib/admin/static/admin/css/base.css",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/db/models/sql/query.py",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/Terminal/messages.json",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/Terminal/package-metadata.json",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/Terminal/iTerm.sh",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/Default.sublime-keymap",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/serg/python_projects/books_explorer/books_expl.sublime-project",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/db/models/fields/related.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/db/models/fields/reverse_related.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/db/models/deletion.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/db/models/base.py",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-mousemap",
+		"/C/Users/serg/python_projects/books_explorer/11_env/lib/site-packages/django/db/models/__init__.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/lib/site-packages/django/db/models/base.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/lib/site-packages/django/db/models/fields/__init__.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/lib/site-packages/django/db/__init__.py",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/User/sublime_jedi.sublime-settings",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/User/Books_explorer_python.sublime-settings",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Lib/site-packages/django/contrib/gis/gdal/geomtype.py",
+		"/C/Users/serg/python_projects/books_explorer/11_env/Scripts/django-admin.py",
+		"/C/Users/serg/python_projects/Exceptions.py",
+		"/C/Users/serg/python_projects/ReadFromFile",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/User/python_build_settings.sublime-build",
+		"/C/Users/serg/python projects/ex1.py",
+		"/C/Users/serg/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"train_result_array",
+			"train_the_model",
+			"train_result_list",
+			"0",
+			"Popen",
+			"subprocess",
+			"Topic",
+			"ForeignKey",
+			"n",
+			"Topic",
+			"from django.db import models\n\n# Create your models here.\n\n\nclass Topic(models.Model):\n    \"\"\"Тема, которую изучает пользователь\"\"\"\n    text = models.CharField(max_length=200)\n    date_added = models.DateTimeField(auto_now_add=True)\n\n    def __str__(self):\n        \"\"\"Возвращает строковое представление модели\"\"\"\n        return self.text\n\n\nclass Entry(models.Model):\n    \"\"\"Информация, изученная пользователем по теме\"\"\"\n    topic = models.ForeignKey(Topic)\n    text = models.ForeignKey(Topic, related_name=None, related_query_name=None, limit_choices_to=None, parent_link=False, to_field=None, db_constraint=True)\n\n\n",
+			"ForeignKey",
+			"text",
+			"    ",
+			"Model",
+			"text",
+			"Model",
+			"ForeignKey",
+			"related_name",
+			"(",
+			"limit_choices_to",
+			"auto",
+			"auto_comp",
+			"auto_complete",
+			"auto_complete_triggers",
+			"python_interpreter"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/serg/Desktop/Edu/4 курс/IS/work1/work1.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1843,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1055,
+								1055
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"show_definitions": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 450.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 235.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 27.0
+	},
+	"pinned_build_system": "Packages/User/python36-32.sublime-build",
+	"project": "books_expl.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\serg\\python_projects\\Trash.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

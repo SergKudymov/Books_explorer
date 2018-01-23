@@ -12,3 +12,11 @@ def books(request):
     """ Cтраница со списком авторов """
     # books = Books.objects.create()
     return render(request, "books_explorers/index.html")
+
+def login(request):
+    """ Cтраница входа """
+    return render(request, "books_explorers/login.html")
+
+def logout(request):
+    """ Выход """
+    return render(request, "books_explorers/logout.html")

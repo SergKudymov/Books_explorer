@@ -10,5 +10,9 @@ urlpatterns = [
     # Домашняя страница
     url(r'', views.index, name='index'),
     # Вывод всех книг
-    url(r'books', views.books, name='books')
+    url(r'books', views.books, name='books'),
+    # Логин - Окно входа
+    url(r'^login/$', views.login, name='login'),
+    # Выход
+    url(r'^logout/$', views.logout, name='logout')
 ]

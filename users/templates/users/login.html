@@ -1,0 +1,15 @@
+{% extends "books_explorers/base.html" %}
+{% block content %}
+
+    {% if form.errors %}
+        <p>Логин или пароль неверный. Попробуйте ещё раз.</p>
+    {% endif %}
+
+    <form method="post" action="{% url 'users:login' %}">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button name="submit">log in</button>
+    <input type="hidden" name="next" value="{% url 'books_explorers:index' %}" />
+    </form>
+
+{% endblock content %}

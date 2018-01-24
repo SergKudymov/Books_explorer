@@ -20,4 +20,5 @@ from django.urls import path
 urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'', include('books_explorers.urls', namespace='books_explorers')),
+    url(r'^users/', include('users.urls', namespace='users'))
 ]

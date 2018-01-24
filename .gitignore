@@ -22,6 +22,7 @@ var/
 wheels/
 *.egg-info/
 11_env/
+dj1_env/
 .installed.cfg
 *.egg
 MANIFEST

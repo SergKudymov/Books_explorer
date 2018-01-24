@@ -25,6 +25,3 @@ def gen_links(url):
         parser.feed(line.decode(encoding))
 
     return parser.links
-
-
-gen_links("http://textfiles.com/etext/AUTHORS/")

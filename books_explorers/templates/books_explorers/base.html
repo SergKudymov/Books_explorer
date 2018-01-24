@@ -1,5 +1,7 @@
 <p>
     <a href="{% url 'books_explorers:index' %}">Books explorer</a>
+    <a href="{% url 'books_explorers:index' %}">Books explorer</a> -
+    <a href="{% url 'books_explorers:authors' %}">Список авторов</a>
     {% if user.is_authenticated %}
         Hello, {{ user.username }}.
         <a href="{% url 'users:logout' %}">log out</a>

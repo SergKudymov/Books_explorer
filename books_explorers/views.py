@@ -13,7 +13,7 @@ def index(request):
 
 
 @login_required
-def books(request):
+def authors(request):
     """ Cтраница со списком авторов """
     authors_url = get_authors_url()
     authors_links = gen_links(authors_url)

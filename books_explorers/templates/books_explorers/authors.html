@@ -1,0 +1,12 @@
+{% extends "books_explorers/base.html" %}
+
+{% block content %}
+    <p>Какого автора вы хотите проанализировать?</p>
+    <ul>
+        {% for author_name in authors_names %}
+            <li><a href="{% url 'books_explorers:books' author_name %}">{{ author_name }}</a></li>
+        {% empty %}
+            <li>Что-то пошло не так :(</li>
+        {% endfor %}
+    </ul>
+{% endblock content %}

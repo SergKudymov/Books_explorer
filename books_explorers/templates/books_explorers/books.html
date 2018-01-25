@@ -1,0 +1,12 @@
+{% extends "books_explorers/base.html" %}
+
+{% block content %}
+    <p>Список произведений</p>
+    <ul>
+        {% for author_name in authors_names %}
+            <li></li>
+        {% empty %}
+            <li>Что-то пошло не так :(</li>
+        {% endfor %}
+    </ul>
+{% endblock content %}

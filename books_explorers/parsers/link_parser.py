@@ -27,4 +27,7 @@ def gen_links(url):
     return parser.links
 
 
-gen_links("http://textfiles.com/etext/AUTHORS/")
+def get_words_count(book):
+    regexAllSymbols = r'[^0-9A-Za-z]+'
+    words = re.split(regexAllSymbols, book)
+    return len(words)

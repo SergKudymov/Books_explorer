@@ -25,3 +25,9 @@ def gen_links(url):
         parser.feed(line.decode(encoding))
 
     return parser.links
+
+
+def get_words_count(book):
+    regexAllSymbols = r'[^0-9A-Za-z]+'
+    words = re.split(regexAllSymbols, book)
+    return len(words)
